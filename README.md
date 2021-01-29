@@ -8,4 +8,4 @@ An order of a single account is free. All additional orders after that cost $0.0
 
 The ProdigyMathGameHacking Code of Conduct does apply.
 
-If you have any questions, you can email me at nameisa@prodigymathwiki.com - if you'd like to make an order, (https://github.com/NameIsA/Mobile-Device-Prodigy-Hacking/issues/new)[go to this page], and choose "Order" as the template.
+If you have any questions, you can email me at nameisa@prodigymathwiki.com - if you'd like to make an order, <a href="https://github.com/NameIsA/Mobile-Device-Prodigy-Hacking/issues/new">go to this page</a>, and choose "Order" as the template.
