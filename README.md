@@ -4,7 +4,7 @@
 
 Currently, manually hacking Prodigy Math Game on mobile devices is not possible to do manually, which is why I have created this station. All hacked accounts are made using hacks created by ProdigyMathGameHacking.
 
-An order of a single account is free. All additional orders after that cost $0.05 and require payment in cryptocurrency or ROBUX.
+An order of a single account is free. All additional orders after that cost $0.05 and require payment in cryptocurrency or ROBUX (you can use group payouts).
 
 The ProdigyMathGameHacking Code of Conduct does apply.
 
