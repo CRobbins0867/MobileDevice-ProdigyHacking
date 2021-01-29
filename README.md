@@ -11,7 +11,9 @@ The ProdigyMathGameHacking Code of Conduct does apply.
 Our motiviation is the same as ProdigyMathGameHacking:
 
 > We're not trying to break the game because we're evil. We just wanted to help Prodigy become more secure, but they've ignored our emails and our requests to talk.
+
 > Because of that we're just publicly showing hacks! That, and it's also just fun ;)
+
 > All of our hacks are open source, and free. No paywalls, no ads, and no Patreon.
 
 Payments are only required to compensate for my time and are not neccesary if you'd just like one account.
