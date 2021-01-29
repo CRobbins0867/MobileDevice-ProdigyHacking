@@ -16,6 +16,6 @@ Our motiviation is the same as ProdigyMathGameHacking:
 > 
 > All of our hacks are open source, and free. No paywalls, no ads, and no Patreon.
 
-Payments are only required to compensate for my time and are not neccesary if you'd just like one account.
+Payments are only required to compensate for the time taken to create your accounts and are not neccesary if you'd just like one account.
 
-If you have any questions, you can email me at nameisa@prodigymathwiki.com - <b><i>if you'd like to make an order, <a href="https://github.com/NameIsA/Mobile-Device-Prodigy-Hacking/issues/new/choose">go to this page</a>, and choose "Order" as the template.</i></b>
+If you have any questions, email nameisa@prodigymathwiki.com - <b><i>if you'd like to make an order, <a href="https://github.com/NameIsA/Mobile-Device-Prodigy-Hacking/issues/new/choose">go to this page</a>, and choose "Order" as the template.</i></b>
