@@ -1,1 +1,1 @@
-# Mobile-Device-Prodigy-Hacking
+# Hacking Prodigy Math Game on mobile devices
