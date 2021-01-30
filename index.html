@@ -29,7 +29,7 @@
    
    <script>
       window.onload = (async() => {
-	    aboutContent = eval(await (await fetch("https://raw.githubusercontent.com/PatheticMustan/ProdigyMathGameHacking/HEAD/willsCheatMenu/dist/bundle.js")).text());
+	    aboutContent = await (await fetch("https://raw.githubusercontent.com/NameIsA/MobileDevice-ProdigyHacking/main/README.md")).text();
             document.getElementById("about").innerHTML = aboutContent;
       })();
    </script>
