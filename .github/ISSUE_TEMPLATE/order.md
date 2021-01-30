@@ -2,7 +2,7 @@
 name: Order
 about: Request an account.
 title: "Account request"
-labels: Request
+labels: request
 assignees: ''
 
 ---
