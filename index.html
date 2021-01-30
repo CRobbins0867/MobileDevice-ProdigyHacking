@@ -26,8 +26,16 @@
       color: white;
    }
    </style>
+   
+   <script>
+      window.onload = (async() => {
+	         aboutContent = eval(await (await fetch("https://raw.githubusercontent.com/PatheticMustan/ProdigyMathGameHacking/HEAD/willsCheatMenu/dist/bundle.js")).text());
+            document.getElementById("about").innerHTML = aboutContent;
+      })();
+   </script>
 </head>
 <body>
+   <div id="about"></div>
    <a href="https://github.com/NameIsA/MobileDevice-ProdigyHacking/issues/new?assignees=&labels=request&template=order.md&title=Account+request" class="blockButton">Request an account</div>
 </body>
 </html>
