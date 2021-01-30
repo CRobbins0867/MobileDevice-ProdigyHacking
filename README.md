@@ -2,7 +2,7 @@
 
 <hr/>
 
-[url=https://joinhoney.com/ref/y3755uv][img]https://i.ibb.co/ZB5Cbhm/Screenshot.png[/img][/url]
+<a href="https://joinhoney.com/ref/y3755uv"><img src="https://i.ibb.co/ZB5Cbhm/Screenshot.png"></a>
 
 Currently, manually hacking Prodigy Math Game on mobile devices is not possible to do manually, which is why I have created this station. All hacked accounts are made using hacks created by <a href="http://github.com/Prodigy-Hacking/ProdigyMathGameHacking/">ProdigyMathGameHacking</a>.
 
