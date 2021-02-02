@@ -1,6 +1,6 @@
 ---
 name: Order
-about: Request an account.
+about: Request an account
 title: "Account request"
 labels: request
 assignees: ''
